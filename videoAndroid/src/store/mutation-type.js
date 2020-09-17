@@ -1,0 +1,1 @@
+export const SER_NUM = 'SET_NUM'
